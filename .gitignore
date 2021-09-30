@@ -1,0 +1,6 @@
+bin/*
+!bin/.gitkeep
+database/*
+!database/.gitkeep
+
+BANK1
